@@ -50,9 +50,3 @@ k8s/
 - Auto deployment using GitHub Actions
 
 ---
-
-## 🐳 Docker Setup
-
-### Build Image
-```bash
-docker build -t node-app .
