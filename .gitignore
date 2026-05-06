@@ -1,4 +1,5 @@
-.terraform/
-*.tfstate
-*.tfstate.*
-terraform/.terraform/
+terraform/
+  main.tf
+  variables.tf
+  provider.tf
+  .terraform/  
